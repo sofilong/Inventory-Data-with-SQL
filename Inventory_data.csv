@@ -1,0 +1,26 @@
+﻿item_id,sku,name,category,description,supplier_id,supplier_name,cost_price,retail_price,quantity_on_hand,reorder_level,reorder_quantity,location,created_at,last_restock_date,expiry_date,weight_kg,dimensions_cm
+1,SKU-0001,USB-C Charging Cable,Electronics,1m braided cable,101,CableCo,1.5,9.99,320,50,200,A1-01,2/15/2023,1/5/2026,,0.02,100x1x0.5
+2,SKU-0002,Wireless Mouse,Electronics,Optical wireless mouse,102,PeriphTech,6,24.99,85,20,100,A1-02,3/10/2023,12/20/2025,,0.09,11x6x4
+3,SKU-0003,Organic Almonds 500g,Grocery,Raw organic almonds,201,NutSupplies,3.2,7.99,60,20,50,B2-10,5/1/2024,11/12/2025,4/1/2026,0.5,20x12x3
+4,SKU-0004,Cotton T-Shirt L,Apparel,Crew neck medium weight,301,FabricHouse,4,14.99,140,30,100,C3-07,11/20/2022,10/3/2025,,0.18,30x25x1
+5,SKU-0005,LED Desk Lamp,Home,Adjustable LED lamp,103,LightWorks,9.5,39.99,42,10,20,A2-04,1/18/2024,12/30/2025,,1.1,40x15x10
+6,SKU-0006,Multivitamin 60ct,Pharmacy,Dietary supplement,401,PharmaPlus,2.8,12.99,200,40,150,B1-02,7/4/2023,6/2/2025,6/1/2027,0.12,8x6x6
+7,SKU-0007,Blue Jeans 32,Apparel,Straight fit denim,302,DenimCo,12,49.99,75,15,60,C3-05,9/30/2023,9/15/2025,,0.6,40x30x3
+8,SKU-0008,AA Alkaline Batteries 4pk,Electronics,Long life AA batteries,104,PowerCell,1.2,5.99,180,40,200,A1-03,2/11/2024,11/1/2025,1/1/2029,0.08,10x6x2
+9,SKU-0009,Ceramic Mug 350ml,Home,White glossy mug,105,KitchenWorld,1,7.5,120,30,60,B3-01,12/1/2023,12/15/2025,,0.35,10x9x8
+10,SKU-0010,Notebook A5 96pg,Office,Spiral-bound ruled,106,PaperGoods,0.5,2.5,500,100,500,D4-02,6/20/2022,7/25/2025,,0.15,21x15x1
+11,SKU-0011,HDMI 2.1 Cable 2m,Electronics,High speed HDMI,101,CableCo,3.25,14.99,90,20,100,A1-04,3/3/2024,1/10/2026,,0.06,200x1.5x0.5
+12,SKU-0012,Scented Candle Vanilla,Home,200g soy candle,107,CandleWorks,2.25,12,55,10,40,B2-05,8/8/2023,11/22/2025,,0.25,8x8x7
+13,SKU-0013,Running Shoes 9,Footwear,Lightweight running shoe,303,SportGear,22,89.99,38,8,40,C5-09,4/14/2024,12/28/2025,,0.85,30x20x10
+14,SKU-0014,Hand Sanitizer 500ml,Pharmacy,Alcohol gel 70%,402,HealthServe,1.4,6.99,240,50,200,B1-03,10/2/2023,10/20/2025,10/1/2028,0.55,22x6x6
+15,SKU-0015,Paper Towels Roll,Home,Single roll,106,PaperGoods,0.6,2.99,300,80,200,D4-05,6/18/2024,12/5/2025,,0.4,28x12x12
+16,SKU-0016,Smartphone Case,Electronics,Shockproof silicone,108,MobileCovers,1.1,9.99,150,30,100,A1-05,5/25/2023,12/2/2025,,0.05,16x8x1
+17,SKU-0017,Instant Coffee 200g,Grocery,Freeze-dried coffee,202,CafeSupplies,2.75,9.99,95,20,60,B2-07,2/20/2024,11/20/2025,12/1/2027,0.22,12x9x6
+18,SKU-0018,Glass Cleaner 1L,Home,Streak-free formula,107,CleanPro,0.95,4.99,130,25,100,B3-08,11/11/2023,12/1/2025,11/1/2029,0.95,30x8x8
+19,SKU-0019,Stapler Heavy-Duty,Office,Up to 25 sheets,106,PaperGoods,3.5,14.99,70,15,50,D4-07,9/15/2022,8/10/2025,,0.4,18x5x7
+20,SKU-0020,Bluetooth Speaker,Electronics,Portable wireless speaker,109,SoundWorks,8.5,49.99,46,10,30,A2-06,1/5/2024,12/20/2025,,0.6,18x8x7
+21,SKU-0021,Dog Food 3kg,Pet,Complete nutrition,301,Paws & Co,4.2,19.99,65,15,40,B4-02,6/12/2023,10/18/2025,11/1/2026,3,30x20x12
+22,SKU-0022,Face Mask 50pc,Pharmacy,Disposable surgical masks,402,HealthServe,2,9.99,420,100,300,B1-05,5/30/2024,12/15/2025,5/1/2028,0.2,12x8x6
+23,SKU-0023,Glass Vase 25cm,Home,Decorative clear vase,105,KitchenWorld,2.8,18.99,28,5,20,B3-03,4/1/2023,11/10/2025,,1,25x12x12
+24,SKU-0024,"LED TV 43""",Electronics,43-inch 4K LED TV,110,VisionElectro,180,349.99,12,3,5,A3-01,12/10/2023,11/30/2025,,7.5,96x15x60
+25,SKU-0025,First Aid Kit,Pharmacy,Compact 50pc kit,403,SafeMed,5.5,24.99,88,20,50,B1-06,2/14/2022,9/30/2025,9/1/2027,0.6,25x18x7
