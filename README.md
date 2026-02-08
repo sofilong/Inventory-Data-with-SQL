@@ -5,7 +5,7 @@
 
 <h2>The problem</h2>
 <p>
-  Inventory data is very dynamic and the lack of constant monitoring create chaos and miscommunication on materials and the availability for production lines. Without a strong criteria on what's the stock levels, lack of expiration dates, use and stock quantities, etc challenges not only production but jeoparidez the production goal, potential downtime which translate in economical loses and unsatisfaction to Customers, and also very likely high unit prices that could be renegotiated. 
+  Inventory data is very dynamic and the lack of constant monitoring create chaos and miscommunication on materials and the availability for production lines. Without a strong criteria on what's the stock levels, lack of expiration dates, use and stock quantities, etc challenges not only production but jeopardize the production goal, potential downtime which translate in economical loses and unsatisfaction to Customers, and also very likely high unit prices that could be renegotiated. 
 </p>
 
 <h2>What’s here</h2>
