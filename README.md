@@ -1,6 +1,6 @@
 <h1>Inventory Data in SQL</h1>
 <p> 
-    This project consist of a simple inventory dataset is to help analize material inventory data and how to detect trends, anomalies, pattern which help see what the errors could potentially be and solve discrepancies, correct typo on data entry and help Purchase in a better planning and sincering MRP processes and inventory operations. 
+    This project consist of a simple inventory dataset is to help analyze material inventory data and how to detect trends, anomalies, pattern which help see what the errors could potentially be and solve discrepancies, correct typo on data entry and help Purchase in a better planning and sincering MRP processes and inventory operations. 
     </p> 
 
 <h2>The problem</h2>
